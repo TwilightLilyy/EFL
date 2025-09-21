@@ -1,0 +1,443 @@
+{
+  "title": "Hydaelyn League System",
+  "description": "An example four-tier pyramid spanning the Source.",
+  "generated_at": "2025-09-21T13:03:11.689646",
+  "meta": {
+    "theme": "eorzea",
+    "seed": 123,
+    "levels": [
+      12,
+      12,
+      18,
+      24
+    ],
+    "short_prefix": "EFL",
+    "generated_using": "ffxiv_pyramid"
+  },
+  "divisions": [
+    {
+      "level": 1,
+      "name": "Eorzean Premier League",
+      "short_name": "EFL L1",
+      "teams": [
+        {
+          "name": "Garlemald Reclaimed Radiant Dragoons",
+          "location": "Garlemald Reclaimed",
+          "inspiration": "Radz-at-Han alchemists",
+          "notes": "Hails from Garlemald Reclaimed with Radz-at-Han alchemists influence."
+        },
+        {
+          "name": "Gridania Radiant Dawn",
+          "location": "Gridania",
+          "inspiration": "Sharlayan Forum",
+          "notes": "Hails from Gridania with Sharlayan Forum influence."
+        },
+        {
+          "name": "Gridania Radiant Sky Pirates",
+          "location": "Gridania",
+          "inspiration": "Radz-at-Han alchemists",
+          "notes": "Hails from Gridania with Radz-at-Han alchemists influence."
+        },
+        {
+          "name": "Lakeland Twin Adders",
+          "location": "Lakeland",
+          "inspiration": "Bozjan Resistance",
+          "notes": "Founded by veterans of the Bozjan Resistance."
+        },
+        {
+          "name": "Limsa Lominsa Astral Sky Pirates",
+          "location": "Limsa Lominsa",
+          "inspiration": "Ishgardian Restoration",
+          "notes": "Backed by the Ishgardian Restoration from Limsa Lominsa."
+        },
+        {
+          "name": "Limsa Lominsa Rising Carbuncle",
+          "location": "Limsa Lominsa",
+          "inspiration": "Temple Knights",
+          "notes": "Backed by the Temple Knights from Limsa Lominsa."
+        },
+        {
+          "name": "Old Sharlayan Blades",
+          "location": "Old Sharlayan",
+          "inspiration": "Scions of the Seventh Dawn",
+          "notes": "Club culture steeped in Scions of the Seventh Dawn tradition."
+        },
+        {
+          "name": "Radz-at-Han Starlit Temple Knights",
+          "location": "Radz-at-Han",
+          "inspiration": "Maelstrom",
+          "notes": "Founded by veterans of the Maelstrom."
+        },
+        {
+          "name": "The Dravanian Forelands Adders",
+          "location": "The Dravanian Forelands",
+          "inspiration": "Sharlayan Forum",
+          "notes": "Club culture steeped in Sharlayan Forum tradition."
+        },
+        {
+          "name": "Ul'dah Conjurers",
+          "location": "Ul'dah",
+          "inspiration": "Ishgardian Restoration",
+          "notes": "Club culture steeped in Ishgardian Restoration tradition."
+        },
+        {
+          "name": "Ul'dah Mythril Temple Knights",
+          "location": "Ul'dah",
+          "inspiration": "Scions of the Seventh Dawn",
+          "notes": "Club culture steeped in Scions of the Seventh Dawn tradition."
+        },
+        {
+          "name": "Ul'dah Starlit Scions",
+          "location": "Ul'dah",
+          "inspiration": "Order of the Twin Adder",
+          "notes": "Backed by the Order of the Twin Adder from Ul'dah."
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "name": "Grand Company Championship",
+      "short_name": "EFL L2",
+      "teams": [
+        {
+          "name": "Coerthas Radiant Dawn",
+          "location": "Coerthas",
+          "inspiration": "Order of the Twin Adder",
+          "notes": "Backed by the Order of the Twin Adder from Coerthas."
+        },
+        {
+          "name": "Garlemald Reclaimed Sky Pirates",
+          "location": "Garlemald Reclaimed",
+          "inspiration": "Students of Baldesion",
+          "notes": "Hails from Garlemald Reclaimed with Students of Baldesion influence."
+        },
+        {
+          "name": "Garlemald Reclaimed Sky Pirates Guard",
+          "location": "Garlemald Reclaimed",
+          "inspiration": "Crystarium Guard",
+          "notes": "Backed by the Crystarium Guard from Garlemald Reclaimed."
+        },
+        {
+          "name": "Gridania Gobwalkers",
+          "location": "Gridania",
+          "inspiration": "Radz-at-Han alchemists",
+          "notes": "Backed by the Radz-at-Han alchemists from Gridania."
+        },
+        {
+          "name": "Gridania Temple Knights",
+          "location": "Gridania",
+          "inspiration": "Temple Knights",
+          "notes": "Club culture steeped in Temple Knights tradition."
+        },
+        {
+          "name": "Idyllshire Gobwalkers",
+          "location": "Idyllshire",
+          "inspiration": "Crystarium Guard",
+          "notes": "Backed by the Crystarium Guard from Idyllshire."
+        },
+        {
+          "name": "Old Sharlayan Twin Gobwalkers",
+          "location": "Old Sharlayan",
+          "inspiration": "Immortal Flames",
+          "notes": "Hails from Old Sharlayan with Immortal Flames influence."
+        },
+        {
+          "name": "Radz-at-Han Temple Knights",
+          "location": "Radz-at-Han",
+          "inspiration": "Students of Baldesion",
+          "notes": "Backed by the Students of Baldesion from Radz-at-Han."
+        },
+        {
+          "name": "Thanalan Crystalline Conjurers",
+          "location": "Thanalan",
+          "inspiration": "Maelstrom",
+          "notes": "Hails from Thanalan with Maelstrom influence."
+        },
+        {
+          "name": "The Crystarium Free Paladins",
+          "location": "The Crystarium",
+          "inspiration": "Order of the Twin Adder",
+          "notes": "Club culture steeped in Order of the Twin Adder tradition."
+        },
+        {
+          "name": "The Dravanian Forelands Carbuncle",
+          "location": "The Dravanian Forelands",
+          "inspiration": "Radz-at-Han alchemists",
+          "notes": "Club culture steeped in Radz-at-Han alchemists tradition."
+        },
+        {
+          "name": "Ul'dah Starlit Temple Knights",
+          "location": "Ul'dah",
+          "inspiration": "Order of the Twin Adder",
+          "notes": "Backed by the Order of the Twin Adder from Ul'dah."
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "name": "Eorzean City-State Division I",
+      "short_name": "EFL L3",
+      "teams": [
+        {
+          "name": "Coerthas Adders",
+          "location": "Coerthas",
+          "inspiration": "Ishgardian Restoration",
+          "notes": "Club culture steeped in Ishgardian Restoration tradition."
+        },
+        {
+          "name": "Garlemald Reclaimed Heavensward Gobwalkers",
+          "location": "Garlemald Reclaimed",
+          "inspiration": "Ishgardian Restoration",
+          "notes": "Backed by the Ishgardian Restoration from Garlemald Reclaimed."
+        },
+        {
+          "name": "Gridania Stormborn Nald'thal",
+          "location": "Gridania",
+          "inspiration": "Order of the Twin Adder",
+          "notes": "Club culture steeped in Order of the Twin Adder tradition."
+        },
+        {
+          "name": "Gridania Umbral Gobwalkers",
+          "location": "Gridania",
+          "inspiration": "Bozjan Resistance",
+          "notes": "Hails from Gridania with Bozjan Resistance influence."
+        },
+        {
+          "name": "Idyllshire Adders",
+          "location": "Idyllshire",
+          "inspiration": "Radz-at-Han alchemists",
+          "notes": "Backed by the Radz-at-Han alchemists from Idyllshire."
+        },
+        {
+          "name": "Idyllshire Sky Pirates",
+          "location": "Idyllshire",
+          "inspiration": "Bozjan Resistance",
+          "notes": "Club culture steeped in Bozjan Resistance tradition."
+        },
+        {
+          "name": "Kugane Conjurers",
+          "location": "Kugane",
+          "inspiration": "Scions of the Seventh Dawn",
+          "notes": "Club culture steeped in Scions of the Seventh Dawn tradition."
+        },
+        {
+          "name": "Lakeland Radiant Dawn",
+          "location": "Lakeland",
+          "inspiration": "Students of Baldesion",
+          "notes": "Club culture steeped in Students of Baldesion tradition."
+        },
+        {
+          "name": "Mor Dhona Ruby Astrologians",
+          "location": "Mor Dhona",
+          "inspiration": "Scions of the Seventh Dawn",
+          "notes": "Hails from Mor Dhona with Scions of the Seventh Dawn influence."
+        },
+        {
+          "name": "Old Gridania Radiant Scions",
+          "location": "Old Gridania",
+          "inspiration": "Sharlayan Forum",
+          "notes": "Hails from Old Gridania with Sharlayan Forum influence."
+        },
+        {
+          "name": "Radz-at-Han Blades",
+          "location": "Radz-at-Han",
+          "inspiration": "Immortal Flames",
+          "notes": "Hails from Radz-at-Han with Immortal Flames influence."
+        },
+        {
+          "name": "Thanalan Crystalline Radiant Dawn",
+          "location": "Thanalan",
+          "inspiration": "Immortal Flames",
+          "notes": "Club culture steeped in Immortal Flames tradition."
+        },
+        {
+          "name": "Thavnair Gobwalkers",
+          "location": "Thavnair",
+          "inspiration": "Ishgardian Restoration",
+          "notes": "Backed by the Ishgardian Restoration from Thavnair."
+        },
+        {
+          "name": "Thavnair Seedseers",
+          "location": "Thavnair",
+          "inspiration": "Maelstrom",
+          "notes": "Founded by veterans of the Maelstrom."
+        },
+        {
+          "name": "Thavnair Stormborn Adders",
+          "location": "Thavnair",
+          "inspiration": "Immortal Flames",
+          "notes": "Hails from Thavnair with Immortal Flames influence."
+        },
+        {
+          "name": "The Crystarium Conjurers",
+          "location": "The Crystarium",
+          "inspiration": "Maelstrom",
+          "notes": "Founded by veterans of the Maelstrom."
+        },
+        {
+          "name": "The Dravanian Forelands Rising Blades",
+          "location": "The Dravanian Forelands",
+          "inspiration": "Ishgardian Restoration",
+          "notes": "Hails from The Dravanian Forelands with Ishgardian Restoration influence."
+        },
+        {
+          "name": "Ul'dah Free Paladins",
+          "location": "Ul'dah",
+          "inspiration": "Radz-at-Han alchemists",
+          "notes": "Founded by veterans of the Radz-at-Han alchemists."
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "name": "Eorzean City-State Division II",
+      "short_name": "EFL L4",
+      "teams": [
+        {
+          "name": "Coerthas Mythril Chocobos",
+          "location": "Coerthas",
+          "inspiration": "Ishgardian Restoration",
+          "notes": "Hails from Coerthas with Ishgardian Restoration influence."
+        },
+        {
+          "name": "Gridania Radiant Dawn FC",
+          "location": "Gridania",
+          "inspiration": "Scions of the Seventh Dawn",
+          "notes": "Founded by veterans of the Scions of the Seventh Dawn."
+        },
+        {
+          "name": "Idyllshire Gobwalkers United",
+          "location": "Idyllshire",
+          "inspiration": "Maelstrom",
+          "notes": "Founded by veterans of the Maelstrom."
+        },
+        {
+          "name": "Idyllshire Maelstrom",
+          "location": "Idyllshire",
+          "inspiration": "Radz-at-Han alchemists",
+          "notes": "Club culture steeped in Radz-at-Han alchemists tradition."
+        },
+        {
+          "name": "La Noscea Astral House Fortemps",
+          "location": "La Noscea",
+          "inspiration": "Temple Knights",
+          "notes": "Club culture steeped in Temple Knights tradition."
+        },
+        {
+          "name": "Labyrinthos Azure Drakes",
+          "location": "Labyrinthos",
+          "inspiration": "Bozjan Resistance",
+          "notes": "Hails from Labyrinthos with Bozjan Resistance influence."
+        },
+        {
+          "name": "Labyrinthos Carbuncle",
+          "location": "Labyrinthos",
+          "inspiration": "Sharlayan Forum",
+          "notes": "Club culture steeped in Sharlayan Forum tradition."
+        },
+        {
+          "name": "Labyrinthos Crystalline Blades",
+          "location": "Labyrinthos",
+          "inspiration": "Ishgardian Restoration",
+          "notes": "Founded by veterans of the Ishgardian Restoration."
+        },
+        {
+          "name": "Labyrinthos Radiant Adders",
+          "location": "Labyrinthos",
+          "inspiration": "Sharlayan Forum",
+          "notes": "Club culture steeped in Sharlayan Forum tradition."
+        },
+        {
+          "name": "Labyrinthos Twin Immortals",
+          "location": "Labyrinthos",
+          "inspiration": "Bozjan Resistance",
+          "notes": "Hails from Labyrinthos with Bozjan Resistance influence."
+        },
+        {
+          "name": "Lakeland Maelstrom",
+          "location": "Lakeland",
+          "inspiration": "Temple Knights",
+          "notes": "Club culture steeped in Temple Knights tradition."
+        },
+        {
+          "name": "Limsa Lominsa Astrologians",
+          "location": "Limsa Lominsa",
+          "inspiration": "Bozjan Resistance",
+          "notes": "Hails from Limsa Lominsa with Bozjan Resistance influence."
+        },
+        {
+          "name": "Limsa Lominsa Azure Drakes",
+          "location": "Limsa Lominsa",
+          "inspiration": "Crystarium Guard",
+          "notes": "Backed by the Crystarium Guard from Limsa Lominsa."
+        },
+        {
+          "name": "Limsa Lominsa Carbuncle",
+          "location": "Limsa Lominsa",
+          "inspiration": "Radz-at-Han alchemists",
+          "notes": "Founded by veterans of the Radz-at-Han alchemists."
+        },
+        {
+          "name": "Limsa Lominsa Dragoons",
+          "location": "Limsa Lominsa",
+          "inspiration": "Immortal Flames",
+          "notes": "Founded by veterans of the Immortal Flames."
+        },
+        {
+          "name": "Limsa Lominsa Twin Sky Pirates",
+          "location": "Limsa Lominsa",
+          "inspiration": "Temple Knights",
+          "notes": "Backed by the Temple Knights from Limsa Lominsa."
+        },
+        {
+          "name": "Mor Dhona Adders",
+          "location": "Mor Dhona",
+          "inspiration": "Crystarium Guard",
+          "notes": "Hails from Mor Dhona with Crystarium Guard influence."
+        },
+        {
+          "name": "Old Sharlayan Chocobos",
+          "location": "Old Sharlayan",
+          "inspiration": "Order of the Twin Adder",
+          "notes": "Club culture steeped in Order of the Twin Adder tradition."
+        },
+        {
+          "name": "Sharlayan Conjurers",
+          "location": "Sharlayan",
+          "inspiration": "Radz-at-Han alchemists",
+          "notes": "Founded by veterans of the Radz-at-Han alchemists."
+        },
+        {
+          "name": "Thanalan Eternal Conjurers",
+          "location": "Thanalan",
+          "inspiration": "Maelstrom",
+          "notes": "Club culture steeped in Maelstrom tradition."
+        },
+        {
+          "name": "Thavnair Flames",
+          "location": "Thavnair",
+          "inspiration": "Students of Baldesion",
+          "notes": "Backed by the Students of Baldesion from Thavnair."
+        },
+        {
+          "name": "The Crystarium Starlit Scions",
+          "location": "The Crystarium",
+          "inspiration": "Maelstrom",
+          "notes": "Backed by the Maelstrom from The Crystarium."
+        },
+        {
+          "name": "The Dravanian Forelands Nald'thal",
+          "location": "The Dravanian Forelands",
+          "inspiration": "Ishgardian Restoration",
+          "notes": "Founded by veterans of the Ishgardian Restoration."
+        },
+        {
+          "name": "The Dravanian Forelands Radiant Gobwalkers",
+          "location": "The Dravanian Forelands",
+          "inspiration": "Sharlayan Forum",
+          "notes": "Backed by the Sharlayan Forum from The Dravanian Forelands."
+        }
+      ]
+    }
+  ]
+}
